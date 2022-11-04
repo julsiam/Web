@@ -27,7 +27,7 @@ section {
 
 header {
     position: initial;
-    background-color: #4A454B;
+    background-color: #314964;
 }
 
 article {
@@ -38,7 +38,7 @@ article {
 }
 
 .name {
-    background-color: #4A454B;
+    background-color: #314964;
     position: absolute;
     padding: 25px 50px;
     color: rgb(237, 234, 234);
